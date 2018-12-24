@@ -1,4 +1,4 @@
-# UnityTutorialsBookUpgrade_ClassicGameDesignFrom-PongToPacman
+# UnityTutorialsBookUpgrade_ClassicGameDesignFrom-PongToPacman-WithUnity
 A pure Unity application to the books tutorials creating classical core games such as Pong and Pacman
 Upgraded to Unity 2018.3
 
