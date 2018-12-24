@@ -9,10 +9,10 @@ Upgraded to Unity 2018.3
 
 # Project 1:Classical Paddle Game
 Found in Chapter 1 (From page 44-71)
--Following the tutorial 
--Upgraded to Unity UI new system from Unity 4.6 (commented the old GUI system in the code class "Scorings"
--I added a small win screen if condition is met.👾
-_Included the legacy Physic materials in the old unity versions heres!
-_Joined a short video of gameplay here: 
+- Following the tutorial 
+- Upgraded to Unity UI new system from Unity 4.6 (commented the old GUI system in the code class "Scorings"
+- I added a small win screen if condition is met.👾
+- _ Included the legacy Physic materials in the old unity versions heres!
+- _Joined a short video of gameplay here: 
 
 
